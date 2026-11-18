@@ -1,0 +1,3 @@
+-- Superseded by employee-admin-and-salary-migration.sql.
+-- Run the newer migration instead; it adds employee login columns, makes salary
+-- nullable for self-registration, and creates the database-backed admin account.
